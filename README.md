@@ -2,7 +2,7 @@
 
 ## Juan Manuel Cuervo Gaitan
 
-## Pensamiento Algoritmico Grupo 1  31/08/2025
+## Pensamiento Algoritmico Grupo 1 - 31/08/2025
 
 ## Estructura del repositorio
 Taller Condicionales/
