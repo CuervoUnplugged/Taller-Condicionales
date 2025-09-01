@@ -1,17 +1,5 @@
-# Taller de Programación - Proyecto Final
+# Taller Condicionales
 
-## Integrantes
-- Nombre Completo 1 - Código 12345
-- Nombre Completo 2 - Código 67890
-- (Agrega todos los integrantes)
+## Juan Manuel Cuervo Gaitan
 
-## Curso
-- Nombre del curso: Programación I
-- Fecha de entrega: DD/MM/AAAA
-
-## Guías de compilación
-
-### Windows (usando g++)
-```bash
-g++ src/*.cpp -o programa.exe
-./programa.exe
+## Pensamiento Algoritmico Grupo 1
